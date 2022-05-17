@@ -1,0 +1,1 @@
+sqlcmd -E -i test.sql -d databasename -s 127.0.0.1
